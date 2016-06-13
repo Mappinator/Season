@@ -3,7 +3,7 @@ using System.Collections;
 
 public class Route : MonoBehaviour {
 
-	public GameObject G1; 
+	public GameObject Gt; 
 	// Use this for initialization
 	void Start () {
 	
